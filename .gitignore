@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+# IDE
+.vscode/
+.idea/
+*.swp
+# Generated plots
+*.png
+*.pdf
+*.gif
+# OS files
+.DS_Store
+Thumbs.db
