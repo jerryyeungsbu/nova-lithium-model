@@ -18,9 +18,6 @@ cd nova-lithium-model
 pip install numpy matplotlib scipy
 
 ## Files
-
-| File | Description |
-|------|-------------|
 | `nova_model.py` | General model - predicts Li I column density over time |
 | `saha_model.py` | Saha ionization model - predicts neutral Li fraction |
 | `requirements.txt` | Python dependencies |
