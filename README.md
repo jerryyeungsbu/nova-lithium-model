@@ -16,6 +16,7 @@ The model incorporates
 git clone https://github.com/jerryeungsbu/nova-lithium-model.git
 cd nova-lithium-model
 pip install numpy matplotlib scipy
+```
 
 ## Files
 | `nova_model.py` | General model - predicts Li I column density over time |
