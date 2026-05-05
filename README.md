@@ -13,7 +13,7 @@ The model incorporates
 ## Installation
 
 ```bash
-git clone https://github.com/jerryeungsbu/nova-lithium-model.git
+git clone https://github.com/jerryyeungsbu/nova-lithium-model.git
 cd nova-lithium-model
 pip install numpy matplotlib scipy
 ```
