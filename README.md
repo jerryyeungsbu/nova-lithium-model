@@ -15,7 +15,7 @@ The model incorporates
 ```bash
 git clone https://github.com/jerryyeungsbu/nova-lithium-model.git
 cd nova-lithium-model
-pip install numpy matplotlib scipy
+pip install -r requirements.txt
 ```
 
 ## Files
