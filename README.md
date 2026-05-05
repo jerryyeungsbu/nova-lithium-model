@@ -19,7 +19,7 @@ pip install numpy matplotlib scipy
 ```
 
 ## Files
--nova_model.py is the general model, predicts Li I column density over time |
--saha_model.py is the saha ionization model, predicts neutral Li fraction |
--requirements.txt shows python dependencies 
+- nova_model.py is the general model, predicts Li I column density over time 
+- saha_model.py is the saha ionization model, predicts neutral Li fraction 
+- requirements.txt shows python dependencies 
 
